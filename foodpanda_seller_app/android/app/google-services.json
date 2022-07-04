@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "783444965544",
+    "project_id": "azwar-clone-app",
+    "storage_bucket": "azwar-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783444965544:android:ff2e788b7ca22ea41caa9d",
+        "android_client_info": {
+          "package_name": "com.azwar.sellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783444965544-2bj8b55njrgr9nh3ra36phskhevmk1p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFHEUcDW0dh4bu16QWRQ3JyEy9FAsEKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783444965544-2bj8b55njrgr9nh3ra36phskhevmk1p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783444965544:android:843709fb7da654721caa9d",
+        "android_client_info": {
+          "package_name": "com.azwar.sellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783444965544-2bj8b55njrgr9nh3ra36phskhevmk1p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFHEUcDW0dh4bu16QWRQ3JyEy9FAsEKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783444965544-2bj8b55njrgr9nh3ra36phskhevmk1p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
